@@ -1,4 +1,4 @@
-# AI/ML Project: Twitter Sentiment Analysis 🐤
+# AI/ML Project: Twitter Sentiment Analysis 🕊️
 
 <p align="center"><img src="https://user-images.githubusercontent.com/54996245/144761314-6ad29602-668e-4acd-83b1-d3c9f7be0cf9.jpg" style="width: 1000px;"/></p>
 
